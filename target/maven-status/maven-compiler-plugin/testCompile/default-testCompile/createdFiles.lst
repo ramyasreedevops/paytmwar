@@ -1,0 +1,7 @@
+examples\resource\ListGreetingsResourceST.class
+examples\resource\CreateGreetingResourceST.class
+examples\resource\RemoveGreetingResourceST.class
+examples\resource\UpdateGreetingResourceST.class
+fixture\TestModule.class
+examples\resource\GetGreetingResourceST.class
+examples\resource\ListGreetingsResourceST$1.class

@@ -1,0 +1,11 @@
+examples\resource\RemoveGreetingResource.class
+examples\resource\UpdateGreetingResource.class
+examples\resource\model\GreetingModel.class
+examples\resource\CreateGreetingResource.class
+examples\resource\GetGreetingResource.class
+examples\resource\ListGreetingsResource.class
+examples\resource\repository\entity\GreetingEntity.class
+examples\resource\repository\GreetingRepository.class
+examples\resource\repository\RepositoryPackage.class
+examples\GreetingApplication.class
+examples\GreetingConfig.class

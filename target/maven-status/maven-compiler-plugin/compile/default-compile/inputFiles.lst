@@ -1,0 +1,11 @@
+G:\folderstructures\fridge\src\main\java\examples\GreetingApplication.java
+G:\folderstructures\fridge\src\main\java\examples\resource\ListGreetingsResource.java
+G:\folderstructures\fridge\src\main\java\examples\resource\GetGreetingResource.java
+G:\folderstructures\fridge\src\main\java\examples\resource\repository\GreetingRepository.java
+G:\folderstructures\fridge\src\main\java\examples\resource\RemoveGreetingResource.java
+G:\folderstructures\fridge\src\main\java\examples\resource\CreateGreetingResource.java
+G:\folderstructures\fridge\src\main\java\examples\GreetingConfig.java
+G:\folderstructures\fridge\src\main\java\examples\resource\repository\entity\GreetingEntity.java
+G:\folderstructures\fridge\src\main\java\examples\resource\UpdateGreetingResource.java
+G:\folderstructures\fridge\src\main\java\examples\resource\model\GreetingModel.java
+G:\folderstructures\fridge\src\main\java\examples\resource\repository\RepositoryPackage.java

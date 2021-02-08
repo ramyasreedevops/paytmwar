@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: examples.resource.UpdateGreetingResourceST
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.061 s <<< FAILURE! - in examples.resource.UpdateGreetingResourceST
+examples.resource.UpdateGreetingResourceST  Time elapsed: 0.061 s  <<< ERROR!
+java.lang.NullPointerException
+
